@@ -7,6 +7,7 @@ uses
   LeasingNinja.Sales.Domain.AmountTest,
   LeasingNinja.Sales.Domain.CurrencyTest,
   LeasingNinja.Sales.Domain.CustomerTest,
+  LeasingNinja.Sales.Domain.FinancialCalculatorTest,
   LeasingNinja.Sales.Domain.InterestTest,
   LeasingNinja.Sales.Domain.LeaseTermTest,
   LeasingNinja.Sales.Domain.SignDateTest;
