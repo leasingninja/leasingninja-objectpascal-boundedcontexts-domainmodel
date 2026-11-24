@@ -1,4 +1,4 @@
-unit LeasingNinja.Sales.Domain.Amount;
+﻿unit LeasingNinja.Sales.Domain.Amount;
 
 {$IFDEF FPC}{$MODE DELPHIUNICODE}{$ENDIF}
 {$ASSERTIONS ON}

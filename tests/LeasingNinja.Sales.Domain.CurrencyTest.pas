@@ -1,4 +1,4 @@
-unit LeasingNinja.Sales.Domain.CurrencyTest;
+﻿unit LeasingNinja.Sales.Domain.CurrencyTest;
 
 {$IFDEF FPC}{$MODE DELPHIUNICODE}{$ENDIF}
 

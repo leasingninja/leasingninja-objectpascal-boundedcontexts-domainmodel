@@ -1,11 +1,15 @@
-program LeasingNinjaTests;
+﻿program LeasingNinjaTests;
 
 {$MODE DELPHIUNICODE}
 
 uses
   consoletestrunner,
   LeasingNinja.Sales.Domain.AmountTest,
-  LeasingNinja.Sales.Domain.CurrencyTest;
+  LeasingNinja.Sales.Domain.CurrencyTest,
+  LeasingNinja.Sales.Domain.CustomerTest,
+  LeasingNinja.Sales.Domain.InterestTest,
+  LeasingNinja.Sales.Domain.LeaseTermTest,
+  LeasingNinja.Sales.Domain.SignDateTest;
 
 var
   App: TTestRunner;

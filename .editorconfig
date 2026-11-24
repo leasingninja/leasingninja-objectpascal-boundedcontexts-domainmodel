@@ -11,3 +11,4 @@ insert_final_newline = true
 
 [*.{pas,dpr,dpk,lpr,inc}]
 indent_size = 2
+charset = utf-8-bom
