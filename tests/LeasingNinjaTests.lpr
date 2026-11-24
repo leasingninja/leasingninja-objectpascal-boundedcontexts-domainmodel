@@ -5,6 +5,7 @@
 uses
   consoletestrunner,
   LeasingNinja.Sales.Domain.AmountTest,
+  LeasingNinja.Sales.Domain.ContractTest,
   LeasingNinja.Sales.Domain.CurrencyTest,
   LeasingNinja.Sales.Domain.CustomerTest,
   LeasingNinja.Sales.Domain.FinancialCalculatorTest,
