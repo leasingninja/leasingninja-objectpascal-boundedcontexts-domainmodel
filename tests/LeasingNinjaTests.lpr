@@ -11,7 +11,8 @@ uses
   LeasingNinja.Sales.Domain.FinancialCalculatorTest,
   LeasingNinja.Sales.Domain.InterestTest,
   LeasingNinja.Sales.Domain.LeaseTermTest,
-  LeasingNinja.Sales.Domain.SignDateTest;
+  LeasingNinja.Sales.Domain.SignDateTest,
+  LeasingNinja.Sales.Infrastructure.InMemoryContractsTest;
 
 var
   App: TTestRunner;
